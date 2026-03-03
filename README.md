@@ -17,7 +17,9 @@ Red Light: STOP immediately. If the game detects any movement (key presses) duri
 
 Restart: Press SPACE on the Game Over screen to try again.
 
-how to Download
-Download the zip file and exract it
-and open the privided file with python
+How to Download:
+-Go to Demo
+-Then itch.io will be opened
+-After that you can download the exe
+-After the download you can play the game!
 

@@ -1,3 +1,5 @@
+
+
 🔴 Red Light, Green Light (Pygame Edition) 🟢
 
 
@@ -22,4 +24,11 @@ How to Download:
 -Then itch.io will be opened
 -After that you can download the exe
 -After the download you can play the game!
+
+UPDATE:
+1)The speed is reduced.
+2)Timer is also reduced.
+3)Obstacles is added.
+4)Yellow light is added which helps to know that red light is coming like a warning.
+5)Help option is added.
 
